@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project predicts **house prices** based on multiple features such as living area, number of rooms, quality, year built, and garage capacity using a **Random Forest Regression model**.  
-The goal is to build an accurate, robust machine learning model similar to the **Kaggle House Prices** competition.
+This is still in progress. I am first testing the model with test data and will scale up eventually.
 
 ---
 
